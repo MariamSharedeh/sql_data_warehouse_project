@@ -21,7 +21,7 @@ Data Modeling
 Data Analytics
 
 
-### 💫 About Me
+###  About Me
 
 I'm Mariam — a curious mind passionate about **data engineering and analytics**.  
 For me, data is not just numbers; it's a language that reveals hidden stories.  
